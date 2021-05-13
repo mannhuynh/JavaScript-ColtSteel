@@ -1,3 +1,5 @@
+// This file can be used with any project that use BULMA CSS framework for autocomplete
+
 const createAutoComplete = ({
 	root,
 	renderOption,
